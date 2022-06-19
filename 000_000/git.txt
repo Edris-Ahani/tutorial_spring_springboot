@@ -1,8 +1,0 @@
-###Create Git branch using checkout
-git checkout -b 000_001
-###unstage one folder
-git rm -r --cached *
-###Add the necessary folders
-git add 000_001
-git commit -m "init 000_001"
-git push origin 000_001:000_001
