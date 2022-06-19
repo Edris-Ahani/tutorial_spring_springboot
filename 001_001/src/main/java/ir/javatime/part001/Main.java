@@ -1,4 +1,4 @@
-package ir.javatime.part1;
+package ir.javatime.part001;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

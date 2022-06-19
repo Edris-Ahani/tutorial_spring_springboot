@@ -1,4 +1,4 @@
-package ir.javatime.part2;
+package ir.javatime.part002;
 
 
 import org.springframework.context.ApplicationContext;

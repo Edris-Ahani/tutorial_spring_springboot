@@ -1,4 +1,4 @@
-package ir.javatime.part1;
+package ir.javatime.part001;
 
 import org.springframework.stereotype.Component;
 

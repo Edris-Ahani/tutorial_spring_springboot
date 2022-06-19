@@ -1,4 +1,4 @@
-package ir.javatime.part2;
+package ir.javatime.part002;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
